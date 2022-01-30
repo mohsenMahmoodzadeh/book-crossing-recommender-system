@@ -66,9 +66,11 @@ First of all, run the cells of [Data_Preprocessing.ipynb](https://github.com/moh
 
 ## Future Works
 
-  - Build a hybrid recommender system which combines collaborative and content-based filtering recommender systems.
+- Improve content-based recommender system so that it takes multiple fields(not just `bookTitle`) for TF-IDF representation.
+
+- Build a hybrid recommender system which combines collaborative and content-based filtering recommender systems.
   
-  - Build a neural recommender system(something like [this](https://blog.tensorflow.org/2020/09/introducing-tensorflow-recommenders.html)).
+- Build a neural recommender system(something like [this](https://blog.tensorflow.org/2020/09/introducing-tensorflow-recommenders.html)).
 
 - Modify the models so that be evaluable with evaluation metrics(maybe [this](https://github.com/statisticianinstilettos/recmetrics) can help).
 
