@@ -15,6 +15,8 @@ In this project, these recommender systems are implemented:
 - Python: 3.9.0
 - Numpy: 1.22.1
 - Pandas: 1.3.5
+- Matplotlib: 3.5.1
+- Plotly: 5.5.0
 - Scikit-learn: 1.0.2
 - Scikit-surprise: 1.1.1
 
