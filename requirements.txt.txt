@@ -76,3 +76,4 @@ pytest-mock==3.6.1
 repoze.lru==0.7
 wheel==0.37.0
 pycountry-convert==0.7.2
+wordcloud==1.8.1
