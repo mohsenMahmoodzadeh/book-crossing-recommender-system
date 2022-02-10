@@ -26,37 +26,29 @@ In this project, these recommender systems are implemented:
 Clone the repository:
 
 ```
-
 git clone https://github.com/mohsenMahmoodzadeh/Book-Crossing-Recommender-System.git
-
 ```
 
 Create a virtual environement (to avoid conflicts):
 
 ```
-
 virtualenv -p python3.9 recsys
 
 # this may vary depending on your shell
 . recsys/bin/activate
-
 ```
 
 Install the dependencies:
 
 ```
-
 pip install -r requirements.txt
-
 ```
 
 If you want to work on jupyter notebook, you may need to setup a kernel on your virtual environment to make sure all your modules execute correctly.
 ```
-
 python -m ipykernel install --name recsyskernel
 
 # Now you get a kernel named `recsyskernel` in your jupyter notebook
-
 ```  
 
 ## Usage Guide
