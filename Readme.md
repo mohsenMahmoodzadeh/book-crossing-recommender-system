@@ -27,7 +27,7 @@ Clone the repository:
 
 ```
 
-https://github.com/mohsenMahmoodzadeh/Book-Crossing-Recommender-System.git
+git clone https://github.com/mohsenMahmoodzadeh/Book-Crossing-Recommender-System.git
 
 ```
 
