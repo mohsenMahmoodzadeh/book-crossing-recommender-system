@@ -53,7 +53,7 @@ python -m ipykernel install --name recsyskernel
 
 ## Usage Guide
 
-First of all, run the cells of [Data_Preprocessing_and_Analysis.ipynb](https://github.com/mohsenMahmoodzadeh/Book-Crossing-Recommender-System/blob/master/Data_Preprocessing.ipynb) to generate preprocessed data files. Then you can use [Recommendation.ipynb](https://github.com/mohsenMahmoodzadeh/Book-Crossing-Recommender-System/blob/master/Recommendation.ipynb) to make recommendations and test recommenders.
+First of all, run the cells of [Data_Preprocessing_and_Analysis.ipynb](https://github.com/parth-bril22/Book-Crossing-Recommender-System/blob/master/Data_Preprocessing_and_Analysis.ipynb) to generate preprocessed data files. Then you can use [Recommendation.ipynb](https://github.com/mohsenMahmoodzadeh/Book-Crossing-Recommender-System/blob/master/Recommendation.ipynb) to make recommendations and test recommenders.
 
 
 ## Future Works
