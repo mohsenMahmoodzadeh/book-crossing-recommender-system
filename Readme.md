@@ -29,7 +29,7 @@ Clone the repository:
 git clone https://github.com/mohsenMahmoodzadeh/Book-Crossing-Recommender-System.git
 ```
 
-Create a virtual environement (to avoid conflicts):
+Create a virtual environment (to avoid conflicts):
 
 ```
 virtualenv -p python3.9 recsys
@@ -53,7 +53,7 @@ python -m ipykernel install --name recsyskernel
 
 ## Usage Guide
 
-First of all, run the cells of [Data_Preprocessing_and_Analysis.ipynb](https://github.com/parth-bril22/Book-Crossing-Recommender-System/blob/master/Data_Preprocessing_and_Analysis.ipynb) to generate preprocessed data files. Then you can use [Recommendation.ipynb](https://github.com/mohsenMahmoodzadeh/Book-Crossing-Recommender-System/blob/master/Recommendation.ipynb) to make recommendations and test recommenders.
+First, run the cells of [Data_Preprocessing_and_Analysis.ipynb](https://github.com/mohsenMahmoodzadeh/book-crossing-recommender-system/blob/master/Data_Preprocessing_and_Analysis.ipynb) to generate preprocessed data files. Then you can use [Recommendation.ipynb](https://github.com/mohsenMahmoodzadeh/book-crossing-recommender-system/blob/master/Recommendation.ipynb) to make recommendations and test recommenders.
 
 
 ## Future Works
