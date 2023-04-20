@@ -2,3 +2,4 @@
 CSVs/
 main.ipynb
 *.gzip
+.idea
