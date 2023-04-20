@@ -26,7 +26,7 @@ In this project, these recommender systems are implemented:
 Clone the repository:
 
 ```
-git clone https://github.com/mohsenMahmoodzadeh/Book-Crossing-Recommender-System.git
+git clone https://github.com/mohsenMahmoodzadeh/book-crossing-recommender-system
 ```
 
 Create a virtual environment (to avoid conflicts):
